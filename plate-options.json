@@ -1,10 +1,10 @@
 {
   "monthly":{
-    "newPlate":"https://www.anew.health/*/products/anew-measuring-plate-next-step",
-    "gotPlate":"https://www.anew.health/*/products/anew-measuring-plate-next-step-1"
+    "newPlate":"https://www.anew.health/products/anew-measuring-plate-next-step",
+    "gotPlate":"https://www.anew.health/products/anew-measuring-plate-next-step-1"
   },
   "yearly": {
-    "newPlate":"https://www.anew.health/*/products/anew-measuring-plate-next-step-2"
+    "newPlate":"https://www.anew.health/products/anew-measuring-plate-next-step-2"
   },
   "checkoutCompletedUrl":"https://www.anew.health/*/checkout-completed*"
 }
