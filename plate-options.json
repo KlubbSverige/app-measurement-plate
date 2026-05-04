@@ -6,5 +6,5 @@
   "yearly": {
     "newPlate":"https://www.anew.health/products/anew-measuring-plate-next-step-2"
   },
-  "checkoutCompletedUrl":"https://www.anew.health/*/checkout-completed*"
+  "checkoutCompletedUrl":"https://www.anew.health/checkouts/cn/*/thank-you*"
 }
